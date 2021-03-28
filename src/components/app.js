@@ -4,6 +4,8 @@ import Header from "./header.js";
 import Content from "./content.js";
 import Footer from "./footer.js";
 
+import Main from "../style/main.scss"
+
 export default class App extends Component {
   render() {
     return (
